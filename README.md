@@ -37,6 +37,7 @@ Amplitude Modulation (AM) is a technique used in electronic communication, prima
 
 ## Tabular Column
 
+![WhatsApp Image 2025-10-18 at 13 16 07_6574c806](https://github.com/user-attachments/assets/62546377-92c8-43fa-847c-82164208ad69)
 
 ## Result
 
