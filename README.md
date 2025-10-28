@@ -57,14 +57,14 @@ plt.show()
 
 ## Output Waveform
 
-<img width="939" height="933" alt="Am out" src="https://github.com/user-attachments/assets/abe3b3c8-be58-45b2-b02d-1ead0f6a1484" />
+<img width="713" height="556" alt="image" src="https://github.com/user-attachments/assets/0d75530d-ae11-41a6-9110-f3923a80ea37" />
 
 
 
 
 ## Tabular Column
 
-![Am using python](https://github.com/user-attachments/assets/3f1a062b-1a55-4c09-9458-2bab08dbc7ef)
+![Uploading WhatsApp Image 2025-10-28 at 10.36.20_e5b3a1bd.jpg…]()
 
 
 
