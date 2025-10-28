@@ -64,7 +64,7 @@ plt.show()
 
 ## Tabular Column
 
-![Uploading WhatsApp Image 2025-10-28 at 10.36.20_e5b3a1bd.jpg…]()
+![WhatsApp Image 2025-10-28 at 10 36 20_e5b3a1bd](https://github.com/user-attachments/assets/eaefbd83-012f-4c0e-a184-985505b41f08)
 
 
 
